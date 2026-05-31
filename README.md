@@ -64,6 +64,7 @@ Currently building and improving my development journey 🚀
 
 ## ⚡ Motto
 Consistency beats talent when talent doesn’t work hard.
+
 I'm not perfect but still Trying.
 
 
