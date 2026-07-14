@@ -3,6 +3,8 @@
 🚀 Flutter Developer | Mobile App Developer  
 📱 I build scalable, clean, and user-focused mobile applications  
 💡 Passionate about solving real-world problems through technology  
+ AI Engineer | Building RAG, AI Agents & LLM Applications
+ Python • LangChain • FastAPI • OpenAI • Vector Databases • Docker
 
 
 
