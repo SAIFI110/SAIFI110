@@ -250,8 +250,6 @@ A real-time emergency safety application built with Flutter and Firebase.
 
 # 📫 Connect With Me
 
-📧 Email: your-email@example.com
-
 💼 LinkedIn:
 https://www.linkedin.com/in/muhammad-saif-8b24103a9
 
