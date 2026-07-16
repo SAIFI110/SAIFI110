@@ -1,125 +1,46 @@
-# 👋 Hi, I'm Muhammad Saif
+# Hi, I'm Muhammad Saif 👋
 
-<div align="center">
+### AI Engineer | Flutter Developer | Generative AI Enthusiast
 
-### 🚀 AI Engineer | Flutter Developer | Generative AI Enthusiast
-
-Building intelligent AI applications, LLM-powered systems, and modern mobile applications.
+I'm passionate about building AI-powered applications, intelligent agents, and modern cross-platform mobile apps.
 
 ---
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)]
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)]
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]
-[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)]
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)]
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]
+## 🚀 About Me
 
-</div>
+- 🤖 Learning AI Engineering and Generative AI
+- 🧠 Building RAG and LLM applications
+- 🔗 Exploring LangChain, LangGraph, and AI Agents
+- ⚡ Developing APIs with FastAPI
+- 📱 Building mobile apps with Flutter & Firebase
+- ☁️ Learning Docker and Cloud Deployment
 
 ---
 
-# 👨‍💻 About Me
+## 🛠 Tech Stack
 
-I'm an aspiring **AI Engineer** and **Flutter Developer** passionate about building intelligent software that solves real-world problems.
-
-Currently focusing on:
-
-- 🤖 Large Language Models (LLMs)
-- 🧠 Retrieval-Augmented Generation (RAG)
-- ⚡ AI Agents
-- 🔗 LangChain & LangGraph
-- 🚀 FastAPI
-- 📱 Cross-platform Mobile Applications using Flutter
-- ☁️ Cloud-ready AI Applications
-
-I enjoy learning modern AI technologies and turning ideas into production-ready applications.
-
----
-
-# 🚀 Current Learning Journey
-
-- ✅ Python
-- ✅ Git & GitHub
-- ✅ SQL
-- ✅ FastAPI
-- ✅ LangChain 1.x
-- ✅ Prompt Engineering
-- ✅ OpenAI API
-- ✅ Embeddings
-- ✅ Vector Databases
-- ✅ Retrieval-Augmented Generation (RAG)
-- ✅ AI Evaluation
-- 🔄 LangGraph
-- 🔄 AI Agents
-- 🔄 MCP (Model Context Protocol)
-- 🔄 Docker
-- 🔄 Cloud Deployment
-
----
-
-# 📱 Mobile Development
-
-### Flutter
-
-- Flutter
-- Dart
-- Firebase
-- REST APIs
-- State Management
-- Responsive UI
-- Material Design
-
-### Firebase
-
-- Authentication
-- Cloud Firestore
-- Realtime Database
-- Storage
-- Push Notifications
-
----
-
-# 🤖 AI Engineering Stack
-
-### Programming
-
+### Languages
 - Python
+- Dart
+- SQL
 
-### LLM Frameworks
-
+### AI & Backend
 - LangChain
-- LangGraph (Learning)
-
-### AI Models
-
-- OpenAI GPT Models
-- Embeddings
-
-### RAG
-
-- Document Loaders
-- Text Splitters
-- Embeddings
-- Vector Stores
-- RetrievalQA
-- Evaluation
-
-### Backend
-
+- LangGraph
+- OpenAI API
+- RAG
 - FastAPI
 
-### Databases
-
-- ChromaDB
-- DocArray
-- SQLite
+### Mobile
+- Flutter
 - Firebase
 
-### Tools
+### Databases
+- ChromaDB
+- SQLite
+- Firebase Firestore
 
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -128,154 +49,61 @@ I enjoy learning modern AI technologies and turning ideas into production-ready 
 
 ---
 
-# 💼 Featured Projects
+## 💼 Featured Projects
 
-## 🤖 AI Document Chatbot
-
-AI-powered chatbot capable of answering questions from PDFs and CSV files using Retrieval-Augmented Generation (RAG).
-
-### Features
-
-- PDF Chat
-- CSV Chat
-- Semantic Search
+### 🤖 AI Document Chatbot
+- PDF & CSV Question Answering
+- RAG Pipeline
 - OpenAI Embeddings
-- Vector Database
-- LangChain
-- Evaluation Pipeline
-
----
-
-## 📱 Women Safety App
-
-A real-time emergency safety application built with Flutter and Firebase.
-
-### Features
-
-- SOS Alert
-- Live Location Sharing
-- Emergency Contacts
-- Firebase Authentication
-- Real-time Database
-- Google Maps Integration
-
----
-
-## 🚧 Upcoming Projects
-
-- 🤖 AI WhatsApp Assistant
-- 📄 Multi-PDF Chatbot
-- 🧠 AI Research Assistant
-- 🌐 AI Web Search Agent
-- 📧 AI Email Assistant
-- 🎙 Voice AI Assistant
-- 🧑‍💼 AI Resume Analyzer
-- 📱 AI-powered Mobile Apps
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-- Python
-- Dart
-- SQL
-
-## AI
-
-- OpenAI
-- LangChain
-- LangGraph
-- RAG
-- Prompt Engineering
-
-## Mobile
-
-- Flutter
-- Firebase
-
-## Backend
-
-- FastAPI
-
-## Databases
-
-- SQLite
-- Firebase
 - ChromaDB
+- LangChain
 
-## Dev Tools
-
-- Git
-- GitHub
-- VS Code
-- Docker
-- Jupyter Notebook
-
----
-
-# 🎯 2026 Goals
-
-- Become a Production-Level AI Engineer
-- Build AI Agents
-- Master LangGraph
-- Learn MCP
-- Build SaaS AI Products
-- Deploy AI Systems using Docker
-- Contribute to Open Source
-- Land an AI Engineer Role
+### 📱 Women Safety App
+- SOS Alerts
+- Live Location Sharing
+- Firebase Authentication
+- Google Maps
+- Emergency Contacts
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - AI Agents
 - LangGraph
+- MCP (Model Context Protocol)
 - Docker
-- MCP
-- Multi-Agent Systems
-- Production AI Architecture
+- Production AI Systems
 
 ---
 
-# 🤝 Looking For
+## 🎯 2026 Goals
 
-- AI Engineering Internship
+- Become an AI Engineer
+- Master LangGraph & AI Agents
+- Build Production AI Applications
+- Deploy AI Systems with Docker
+- Contribute to Open Source
+
+---
+
+## 🤝 Open To
+
+- AI Engineering Internships
 - Flutter Development Opportunities
 - Open Source Collaboration
 - Freelance AI Projects
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-💼 LinkedIn:
+**LinkedIn:**  
 https://www.linkedin.com/in/muhammad-saif-8b24103a9
 
-💻 GitHub:
+**GitHub:**  
 https://github.com/SAIFI110
 
 ---
 
-# 💬 Favorite Quote
-
-> "Consistency beats talent when talent doesn't work hard."
-
----
-
-# ⚡ Fun Fact
-
-I love building AI systems that can automate real-world tasks while also creating beautiful cross-platform mobile applications.
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, don't forget to ⭐ my repositories.
-
-🚀 Happy Coding!
-
-</div>
+> **"Consistency beats talent when talent doesn't work hard."**
