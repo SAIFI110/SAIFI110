@@ -4,8 +4,6 @@
 
 I'm passionate about building AI-powered applications, intelligent agents, and modern cross-platform mobile apps.
 
----
-
 ## 🚀 About Me
 
 - 🤖 Learning AI Engineering and Generative AI
@@ -14,8 +12,6 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - ⚡ Developing APIs with FastAPI
 - 📱 Building mobile apps with Flutter & Firebase
 - ☁️ Learning Docker and Cloud Deployment
-
----
 
 ## 🛠 Tech Stack
 
@@ -36,7 +32,8 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - Firebase
 
 ### Databases
-- ChromaDB
+- qdrantDB
+- vectorDB
 - SQLite
 - Firebase Firestore
 
@@ -45,18 +42,10 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - GitHub
 - VS Code
 - Jupyter Notebook
-- Docker (Learning)
-
----
+- Docker
+- AWS
 
 ## 💼 Featured Projects
-
-### 🤖 AI Document Chatbot
-- PDF & CSV Question Answering
-- RAG Pipeline
-- OpenAI Embeddings
-- ChromaDB
-- LangChain
 
 ### 📱 Women Safety App
 - SOS Alerts
@@ -64,8 +53,6 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - Firebase Authentication
 - Google Maps
 - Emergency Contacts
-
----
 
 ## 🌱 Currently Learning
 
@@ -75,26 +62,12 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - Docker
 - Production AI Systems
 
----
-
-## 🎯 2026 Goals
-
-- Become an AI Engineer
-- Master LangGraph & AI Agents
-- Build Production AI Applications
-- Deploy AI Systems with Docker
-- Contribute to Open Source
-
----
-
 ## 🤝 Open To
 
-- AI Engineering Internships
+- AI Engineering Job 
 - Flutter Development Opportunities
 - Open Source Collaboration
 - Freelance AI Projects
-
----
 
 ## 📫 Connect With Me
 
@@ -103,7 +76,5 @@ https://www.linkedin.com/in/muhammad-saif-8b24103a9
 
 **GitHub:**  
 https://github.com/SAIFI110
-
----
 
 > **"Consistency beats talent when talent doesn't work hard."**
