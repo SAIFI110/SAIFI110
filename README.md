@@ -18,24 +18,11 @@ I'm passionate about building modern cross-platform mobile apps.
 ### Languages
 - Python
 - Dart
-
-### AI & Backend
-- LangChain
-- LangGraph
-- OpenAI API
-- RAG
-- FastAPI
-
+- 
 ### Mobile
 - Flutter
 - Firebase
-
-### Databases
-- qdrantDB
-- vectorDB
-- SQLite
-- Firebase Firestore
-
+- 
 ### Tools
 - Git
 - GitHub
@@ -52,20 +39,10 @@ I'm passionate about building modern cross-platform mobile apps.
 - Google Maps
 - Emergency Contacts
 
-## 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- MCP (Model Context Protocol)
-- Docker
-- Production AI Systems
-
 ## 🤝 Open To
 
-- AI Engineering Job
 - Flutter Development Opportunities
-- Open Source Collaboration
-- Freelance AI Projects
+- Freelance
 
 ## 📫 Connect With Me
 
