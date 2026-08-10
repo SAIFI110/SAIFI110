@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Saif 👋
 
-### AI Engineer | Flutter Developer | Generative AI Enthusiast
+### Flutter Developer
 
-I'm passionate about building AI-powered applications, intelligent agents, and modern cross-platform mobile apps.
+I'm passionate about building modern cross-platform mobile apps.
 
 ## 🚀 About Me
 
@@ -18,7 +18,6 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 ### Languages
 - Python
 - Dart
-- SQL
 
 ### AI & Backend
 - LangChain
@@ -43,7 +42,6 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 - VS Code
 - Jupyter Notebook
 - Docker
-- AWS
 
 ## 💼 Featured Projects
 
@@ -64,7 +62,7 @@ I'm passionate about building AI-powered applications, intelligent agents, and m
 
 ## 🤝 Open To
 
-- AI Engineering Job 
+- AI Engineering Job
 - Flutter Development Opportunities
 - Open Source Collaboration
 - Freelance AI Projects
