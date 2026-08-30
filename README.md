@@ -18,16 +18,14 @@ I'm passionate about building modern cross-platform mobile apps.
 ### Languages
 - Python
 - Dart
-- 
+  
 ### Mobile
 - Flutter
 - Firebase
-- 
+  
 ### Tools
 - Git
 - GitHub
-- VS Code
-- Jupyter Notebook
 - Docker
 
 ## 💼 Featured Projects
@@ -39,17 +37,9 @@ I'm passionate about building modern cross-platform mobile apps.
 - Google Maps
 - Emergency Contacts
 
-## 🤝 Open To
-
-- Flutter Development Opportunities
-- Freelance
-
 ## 📫 Connect With Me
 
 **LinkedIn:**  
 https://www.linkedin.com/in/muhammad-saif-8b24103a9
-
-**GitHub:**  
-https://github.com/SAIFI110
 
 > **"Consistency beats talent when talent doesn't work hard."**
